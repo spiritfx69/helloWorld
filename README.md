@@ -14,5 +14,3 @@ TypeScript
 * git add --all
 * git commit -m "initial check-in"
 * git push
-
-Test only
