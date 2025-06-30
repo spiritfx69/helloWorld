@@ -15,6 +15,9 @@ DBOS Hello World function (TypeScript)
 * git add --all
 * git commit -m "initial check-in"
 * git push
+<<<<<<< HEAD
 
 ## Extra info
 * git checkout -- .DS_Store
+=======
+>>>>>>> 28676ba695f4a402462c0b90902e42df0aef548a
