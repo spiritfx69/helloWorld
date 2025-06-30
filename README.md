@@ -11,3 +11,5 @@ npm run build
 npm start
 
 git status
+git add --all
+git commit -m "initial check-in"
