@@ -1,1 +1,1 @@
-console.log("buh flip explode");
+console.log("Hello world.");
