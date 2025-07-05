@@ -1,6 +1,10 @@
 # helloWorld
 DBOS Hello World function (TypeScript)
 
+## Install brew and node
+* /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+* npm install node
+
 ## Add neccesary things to local files
 * git clone https://github.com/spiritfx69/helloWorld
 * cd helloWorld

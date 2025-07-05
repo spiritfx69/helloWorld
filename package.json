@@ -12,5 +12,14 @@
   "description": "DBOS Hello World function (TypeScript)",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritfxxxx/helloWorld.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/spiritfxxxx/helloWorld/issues"
+  },
+  "homepage": "https://github.com/spiritfxxxx/helloWorld#readme"
 }
