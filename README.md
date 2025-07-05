@@ -1,6 +1,5 @@
 # helloWorld
 DBOS Hello World function (TypeScript)
-Test---
 
 ## Add neccesary things to local files
 * git clone https://github.com/spiritfx69/helloWorld
